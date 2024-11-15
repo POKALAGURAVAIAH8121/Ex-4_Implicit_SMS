@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by: NAGINENI ROHITH
-Registeration Number : 212222040105
+Developed by: POKALA GURAVAIAH
+Registeration Number : 212222040114
 */
 ```
 ## MainActivity.java:
@@ -92,12 +92,12 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/fbfe3a8a-cf69-4893-badd-bf7d4ad63dd2)
+<img src="https://github.com/user-attachments/assets/fbfe3a8a-cf69-4893-badd-bf7d4ad63dd2" width=200>
 
-![image](https://github.com/user-attachments/assets/53e0cb72-ab18-4a94-8d5b-42687111ea4d)
+<img src="https://github.com/user-attachments/assets/53e0cb72-ab18-4a94-8d5b-42687111ea4d" width=200>
 
 
-![image](https://github.com/user-attachments/assets/d1584596-2d0a-4af3-82eb-4d38ad0540f5)
+<img src="https://github.com/user-attachments/assets/d1584596-2d0a-4af3-82eb-4d38ad0540f5" width=200>
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
